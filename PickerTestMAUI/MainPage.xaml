@@ -4,8 +4,8 @@
              x:Class="PickerTestMAUI.MainPage">
 
 
-    <VerticalStackLayout HorizontalOptions="CenterAndExpand" >
-        <Picker  ItemsSource="{Binding Names}"/>
+    <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Picker ItemsSource="{Binding Names}"/>
     </VerticalStackLayout>
     
 </ContentPage>

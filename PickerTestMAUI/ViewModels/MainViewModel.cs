@@ -1,6 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-
 namespace PickerTestMAUI.ViewModels
 {
     public partial class MainViewModel:ObservableObject
